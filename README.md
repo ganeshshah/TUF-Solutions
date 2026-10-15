@@ -1,26 +1,26 @@
-# 🚀 TUF-Solutions
+# <img src=".tuf/icons/rocket.svg" width="24" alt=""> TUF-Solutions
 
-> Auto-synced using [TUFHub](https://github.com/Arora-Sir/TUFHub): Solutions for [TakeUForward (TUF+)](https://takeuforward.org/pricing?affiliate=arorasir)
+> Auto-synced with **TUF+Solutions**: Solutions for [TakeUForward (TUF+)](https://takeuforward.org/)
 
-## 📊 Solution Progress Summary
+## <img src=".tuf/icons/bar_chart.svg" width="20" alt=""> Solution Progress Summary
 
-| Total Solved | 🟢 Easy | 🟡 Medium | 🔴 Hard | Last Synced |
+| Total Solved | Easy | Medium | Hard | Last Synced |
 | :---: | :---: | :---: | :---: | :---: |
 | **2** | 0 | 2 | 0 | `2026-10-15` |
 
 ---
 
-## 🗂️ Solved Problems Index
+## <img src=".tuf/icons/folder_open.svg" width="20" alt=""> Solved Problems Index
 
 ### DSA (2)
 
-| # | Title | Solution(s) | Difficulty | Topic | Last Synced |
+| **#** | [Title](README_by_title.md) | Solution(s) | [Difficulty](README_by_difficulty.md) | [Topic](README_by_topic.md) | [Last Synced](README_by_date.md) |
 | :---: | :--- | :---: | :---: | :--- | :---: |
-| 0001 | [Majority Element-I](./DSA/Arrays/majority-element-i) | [JAVA](./DSA/Arrays/majority-element-i/solution.java) | 🟡 Medium | `Arrays` | `2026-10-15` |
-| 0002 | [Majority Element-II](./DSA/Arrays/majority-element-ii) | [JAVA](./DSA/Arrays/majority-element-ii/solution.java) | 🟡 Medium | `Arrays` | `2026-10-15` |
+| 0001 | [Majority Element-I](./DSA/Arrays/majority-element-i) | [JAVA](./DSA/Arrays/majority-element-i/solution.java) | <img src=".tuf/icons/diff_medium.svg" width="36" height="14" alt="Medium"> | `Arrays` | `2026-10-15` |
+| 0002 | [Majority Element-II](./DSA/Arrays/majority-element-ii) | [JAVA](./DSA/Arrays/majority-element-ii/solution.java) | <img src=".tuf/icons/diff_medium.svg" width="36" height="14" alt="Medium"> | `Arrays` | `2026-10-15` |
 
 ---
 
 <p align="center">
-  Crafted with ❤️ for Problem Solvers by <a href="https://github.com/Arora-Sir">Mohit Arora</a> &nbsp;|&nbsp; Practice on <a href="https://takeuforward.org/pricing?affiliate=arorasir">TakeUForward (TUF+)</a> &nbsp;|&nbsp; ⭐ <a href="https://github.com/Arora-Sir/TUFHub">Star TUFHub on GitHub</a>
+  Auto-synced with <strong>TUF+Solutions</strong> &nbsp;|&nbsp; Practice on <a href="https://takeuforward.org/">TakeUForward (TUF+)</a>
 </p>
