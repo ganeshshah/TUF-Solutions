@@ -1,4 +1,4 @@
-# [Majority Element-II](https://takeuforward.org/practice/dsa/majority-element-ii?category=linear-scan&source=strivers-180-master-dsa-patterns)
+# [Majority Element-II](https://takeuforward.org/practice/dsa/majority-element-ii?category=linear-scan&source=strivers-180-master-dsa-patterns&solution=better)
 
 ![Difficulty: Core](https://img.shields.io/badge/Difficulty-Core-eab308?style=for-the-badge)
 
