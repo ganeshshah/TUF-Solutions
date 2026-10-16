@@ -6,7 +6,7 @@
 
 | Total Solved | Easy | Medium | Hard | Last Synced |
 | :---: | :---: | :---: | :---: | :---: |
-| **4** | 0 | 4 | 0 | `2026-10-15` |
+| **4** | 0 | 4 | 0 | `2026-10-16` |
 
 ---
 
@@ -18,7 +18,7 @@
 | :---: | :--- | :---: | :---: | :--- | :---: |
 | 0001 | [Majority Element-I](./DSA/Arrays/majority-element-i) | [JAVA](./DSA/Arrays/majority-element-i/solution.java) | <img src=".tuf/icons/diff_medium.svg" width="36" height="14" alt="Medium"> | `Arrays` | `2026-10-15` |
 | 0002 | [Majority Element-II](./DSA/Arrays/majority-element-ii) | [JAVA](./DSA/Arrays/majority-element-ii/solution.java) | <img src=".tuf/icons/diff_medium.svg" width="36" height="14" alt="Medium"> | `Arrays` | `2026-10-15` |
-| 0003 | [Maximum Product Subarray in an Array](./DSA/Arrays/maximum-product-subarray-in-an-array) | [JAVA](./DSA/Arrays/maximum-product-subarray-in-an-array/solution.java) | <img src=".tuf/icons/diff_medium.svg" width="36" height="14" alt="Medium"> | `Arrays` | `2026-10-15` |
+| 0003 | [Maximum Product Subarray in an Array](./DSA/Arrays/maximum-product-subarray-in-an-array) | [JAVA](./DSA/Arrays/maximum-product-subarray-in-an-array/solution.java) [Solution-2](./DSA/Arrays/maximum-product-subarray-in-an-array/Solution-2.java) | <img src=".tuf/icons/diff_medium.svg" width="36" height="14" alt="Medium"> | `Arrays` | `2026-10-16` |
 | 0004 | [Flood fill algorithm](./DSA/Graphs/flood-fill-algorithm) | [JAVA](./DSA/Graphs/flood-fill-algorithm/solution.java) [Solution-2](./DSA/Graphs/flood-fill-algorithm/Solution-2.java) | <img src=".tuf/icons/diff_medium.svg" width="36" height="14" alt="Medium"> | `Graphs` | `2026-10-15` |
 
 ---
