@@ -10,6 +10,20 @@
 
 ---
 
+## <img src=".tuf/icons/calendar.svg" width="20" alt=""> Activity
+
+<p align="center"><img src=".tuf/heatmap_2026.svg" alt="Problems solved per day in 2026"></p>
+
+<details>
+<summary>Daily log 2026 (2 active days)</summary>
+
+- **2026-10-16** (1): [Majority Element-II](./DSA/Arrays/majority-element-ii)
+- **2026-10-15** (1): [Majority Element-I](./DSA/Arrays/majority-element-i)
+
+</details>
+
+---
+
 ## <img src=".tuf/icons/folder_open.svg" width="20" alt=""> Solved Problems Index
 
 ### DSA (2)
