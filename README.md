@@ -6,7 +6,7 @@
 
 | Total Solved | Easy | Medium | Hard | Last Synced |
 | :---: | :---: | :---: | :---: | :---: |
-| **2** | 0 | 2 | 0 | `2026-10-16` |
+| **3** | 1 | 2 | 0 | `2026-10-25` |
 
 ---
 
@@ -15,8 +15,9 @@
 <p align="center"><img src=".tuf/heatmap_2026.svg" alt="Problems solved per day in 2026"></p>
 
 <details>
-<summary>Daily log 2026 (2 active days)</summary>
+<summary>Daily log 2026 (3 active days)</summary>
 
+- **2026-10-25** (1): [2. Search X in sorted array](./DSA/Arrays/search-x-in-sorted-array)
 - **2026-10-16** (1): [Majority Element-II](./DSA/Arrays/majority-element-ii)
 - **2026-10-15** (1): [Majority Element-I](./DSA/Arrays/majority-element-i)
 
@@ -26,12 +27,13 @@
 
 ## <img src=".tuf/icons/folder_open.svg" width="20" alt=""> Solved Problems Index
 
-### DSA (2)
+### DSA (3)
 
 | **#** | [Title](README_by_title.md) | Solution(s) | [Difficulty](README_by_difficulty.md) | [Topic](README_by_topic.md) | [Last Synced](README_by_date.md) | Notes |
 | :---: | :--- | :---: | :---: | :--- | :---: | :---: |
 | 0001 | [Majority Element-I](./DSA/Arrays/majority-element-i) | [JAVA](./DSA/Arrays/majority-element-i/solution.java) | <img src=".tuf/icons/diff_medium.svg" width="36" height="14" alt="Medium"> | `Arrays` | `2026-10-15` | - |
 | 0002 | [Majority Element-II](./DSA/Arrays/majority-element-ii) | [JAVA](./DSA/Arrays/majority-element-ii/solution.java) | <img src=".tuf/icons/diff_medium.svg" width="36" height="14" alt="Medium"> | `Arrays` | `2026-10-16` | [NOTES](./DSA/Arrays/majority-element-ii/NOTES.md) |
+| 0003 | [2. Search X in sorted array](./DSA/Arrays/search-x-in-sorted-array) | [JAVA](./DSA/Arrays/search-x-in-sorted-array/solution.java) | <img src=".tuf/icons/diff_easy.svg" width="36" height="14" alt="Easy"> | `Arrays` | `2026-10-25` | - |
 
 ---
 
