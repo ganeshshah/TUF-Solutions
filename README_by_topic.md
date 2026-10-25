@@ -33,7 +33,7 @@
 | :---: | :--- | :---: | :---: | :--- | :---: | :---: |
 | 0001 | [Majority Element-I](./DSA/Arrays/majority-element-i) | [JAVA](./DSA/Arrays/majority-element-i/solution.java) | <img src=".tuf/icons/diff_medium.svg" width="36" height="14" alt="Medium"> | `Arrays` | `2026-10-15` | - |
 | 0002 | [Majority Element-II](./DSA/Arrays/majority-element-ii) | [JAVA](./DSA/Arrays/majority-element-ii/solution.java) | <img src=".tuf/icons/diff_medium.svg" width="36" height="14" alt="Medium"> | `Arrays` | `2026-10-16` | [NOTES](./DSA/Arrays/majority-element-ii/NOTES.md) |
-| 0003 | [2. Search X in sorted array](./DSA/Arrays/search-x-in-sorted-array) | [JAVA](./DSA/Arrays/search-x-in-sorted-array/solution.java) | <img src=".tuf/icons/diff_easy.svg" width="36" height="14" alt="Easy"> | `Arrays` | `2026-10-25` | - |
+| 0003 | [2. Search X in sorted array](./DSA/Arrays/search-x-in-sorted-array) | [JAVA](./DSA/Arrays/search-x-in-sorted-array/solution.java) [Solution-2](./DSA/Arrays/search-x-in-sorted-array/Solution-2.java) | <img src=".tuf/icons/diff_easy.svg" width="36" height="14" alt="Easy"> | `Arrays` | `2026-10-25` | - |
 
 ---
 
